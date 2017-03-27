@@ -1,5 +1,7 @@
 # The submission to the Asian and Low-Resource Language Information Processing (TALLIP):
 
+Manuscript:
+
 Enhancing Statistical Machine Translation For Low-ResourceLanguages Using Semantic Similarity
 
 
