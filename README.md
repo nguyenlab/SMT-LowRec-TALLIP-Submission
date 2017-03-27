@@ -5,7 +5,11 @@ Enhancing Statistical Machine Translation For Low-ResourceLanguages Using Semant
 
 Documents for submitting to the Asian and Low-Resource Language Information Processing (TALLIP). This includes:
 
-1. The ogirinal paper submitted at ECIR 2016 (camera ready version).
+1. The two ogirinal papers:
+
+- Dealing with Out-Of-Vocabulary Problem in Sentence Alignment Using Word Similarity (http://www.aclweb.org/anthology/Y/Y16/)
+
+- Applying Semantic Similarity to Phrase Pivot Translation (http://ieeexplore.ieee.org/document/7814720/)
 
 2. The improved and extended version from the original paper, which is submitted to Expert Systems with Applications.
 
