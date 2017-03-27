@@ -15,12 +15,12 @@ Documents for submitting to the Asian and Low-Resource Language Information Proc
 
 (2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI) http://ieeexplore.ieee.org/document/7814720/)
 
-2. The improved and extended version from the original paper, which is submitted to the Asian and Low-Resource Language Information Processing (TALLIP).
+2. The improved and extended version from the original papers, which is submitted to the Asian and Low-Resource Language Information Processing (TALLIP).
 
 3. A cover letter.
 
 4. A highlight file, which summarizes the manuscript.
 
-5. A file which indicates the similarity and difference between the original paper and extened manuscript.
+5. A file which indicates the similarity and difference between the original papers and extened manuscript.
 
 6. Implementations and corpora used in the manuscript: https://github.com/nguyenlab/SMT-LowRec
