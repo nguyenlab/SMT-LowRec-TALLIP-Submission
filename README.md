@@ -3,7 +3,7 @@
 Enhancing Statistical Machine Translation For Low-ResourceLanguages Using Semantic Similarity
 
 
-# Documents for submitting to the Asian and Low-Resource Language Information Processing (TALLIP). This includes:
+Documents for submitting to the Asian and Low-Resource Language Information Processing (TALLIP). This includes:
 
 1. The ogirinal paper submitted at ECIR 2016 (camera ready version).
 
