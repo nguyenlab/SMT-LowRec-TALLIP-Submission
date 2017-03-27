@@ -11,7 +11,7 @@ Documents for submitting to the Asian and Low-Resource Language Information Proc
 
 - Applying Semantic Similarity to Phrase Pivot Translation (http://ieeexplore.ieee.org/document/7814720/)
 
-2. The improved and extended version from the original paper, which is submitted to Expert Systems with Applications.
+2. The improved and extended version from the original paper, which is submitted to the Asian and Low-Resource Language Information Processing (TALLIP).
 
 3. A cover letter.
 
