@@ -23,6 +23,6 @@ Documents for submitting to the Asian and Low-Resource Language Information Proc
 
 4. A highlight file, which summarizes the manuscript.
 
-5. A file which indicates the similarity and difference between the original papers and extened manuscript.
+5. A file which indicates the similarities and differences between the original papers and extened manuscript.
 
 6. Implementations and corpora used in the manuscript: https://github.com/nguyenlab/SMT-LowRec
