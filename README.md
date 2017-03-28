@@ -1,4 +1,4 @@
-# The submission to the Asian and Low-Resource Language Information Processing (TALLIP):
+# The submission to the ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP):
 
 Manuscript:
 
