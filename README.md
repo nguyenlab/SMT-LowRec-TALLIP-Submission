@@ -5,7 +5,7 @@ Manuscript:
 Enhancing Statistical Machine Translation For Low-ResourceLanguages Using Semantic Similarity
 
 
-Documents for submitting to the Asian and Low-Resource Language Information Processing (TALLIP). This includes:
+This repository includes documents for submitting to the Asian and Low-Resource Language Information Processing (TALLIP).
 
 1. The two ogirinal papers:
 
@@ -15,7 +15,7 @@ Documents for submitting to the Asian and Low-Resource Language Information Proc
 
 - Applying Semantic Similarity to Phrase Pivot Translation 
 
-(2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI) http://ieeexplore.ieee.org/document/7814720/)
+(Proceedings of the 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (ICTAI) http://ieeexplore.ieee.org/document/7814720/)
 
 2. The improved and extended version from the original papers, which is submitted to the Asian and Low-Resource Language Information Processing (TALLIP).
 
